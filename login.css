@@ -1,0 +1,27 @@
+body{
+	background:url(photo.jpeg);
+	background-size: cover;
+}
+.form{
+	text-align: center;
+	margin-top: 200px;
+	margin-right:300px;
+	margin-left:700px;
+	background-color: transparent;
+}
+#loim{
+	length:300px;
+	width:110px;
+}
+
+#forget{
+	text-decoration:none;
+	color:#000000;
+	font-size:20px;
+}
+
+#sign{
+	text-decoration:none;
+	color:#000000;
+	font-size:20px;
+}
